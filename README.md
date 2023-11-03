@@ -1,8 +1,4 @@
-# Project Name
-
-## Free Games Tracker
-
----
+# Free Games Tracker
 
 ## Description
 
@@ -15,10 +11,7 @@ This project is a React-based web application that allows users to browse and di
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
 - [API Integration](#api-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -59,13 +52,20 @@ To run this project locally, follow these steps:
    npm install
    ```
 
-4. Start the development server:
+
+4. Add API key:
+
+   ```sh
+   Create .env file and add API key
+   ```
+
+5. Start the development server:
 
    ```sh
    npm start
    ```
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
+6. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
 ---
 
